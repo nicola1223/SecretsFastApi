@@ -7,4 +7,4 @@ app = FastAPI()
 @app.get('/')
 async def root():
     """API root endpoint"""
-    return {'message': 'Welcome to the Wallet API!'}
+    return {'message': 'Welcome to the One-time secrets!'}
