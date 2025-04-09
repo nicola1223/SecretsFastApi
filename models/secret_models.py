@@ -1,3 +1,4 @@
+"""Module for secret's database models"""
 from datetime import datetime
 
 from sqlalchemy import Boolean, Column, DateTime, Integer, String, Text
